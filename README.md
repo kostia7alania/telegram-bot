@@ -1,2 +1,2 @@
 # telegram-bot
-alania-bot
+login of telegram-bot => alania-bot
